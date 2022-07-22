@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+
+.name_of_objects{
+    color: yellow;
+    font-family: 'Comic Neue', cursive;
+    font-size: 20px;
+}
+
+.heading{
+    width: 100%;
+    background-color: magenta;
+    font-size: 30px;
+    font-family: 'Comic Neue', cursive;
+}
+
